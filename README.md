@@ -189,5 +189,3 @@ Lalu ubah `docker-compose.yml` jadi pakai `${VARIABEL}`.
 
 Selamat developing! 🚀  
 Kalau butuh tambahan service (Mailhog, PostgreSQL, MongoDB, Nginx, dll), tinggal bilang ya.
-
-Sekarang README kamu sudah **super lengkap**: deskripsi jelas, stack terdaftar, config full, cara pakai step-by-step, contoh koneksi code, sampai troubleshooting. Tinggal copy-paste ke folder project kamu! 😄
